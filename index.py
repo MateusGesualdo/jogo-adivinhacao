@@ -1,5 +1,3 @@
-print("hello world")
-
 numero_misterioso = "7"
 
 resposta_usuario = input("Escolha um número de 0 a 10")
